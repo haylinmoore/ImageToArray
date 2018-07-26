@@ -8,5 +8,7 @@ I use it to get array that I can then pipe into BrainJS
 ### Install?
 
 `git clone https://github.com/herohamp/ImageToArray.git`
+
 `npm i`
+
 `node app.js *FOLDER*`
