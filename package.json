@@ -1,0 +1,15 @@
+{
+  "name": "imagetoarray",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hampton Moore",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "pixel-getter": "0.0.5"
+  }
+}
